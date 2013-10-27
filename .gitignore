@@ -1,3 +1,4 @@
+
 *.py[co]
 *.sw[po]
 *.bak
@@ -5,3 +6,4 @@
 *~
 .project
 .pydevproject
+

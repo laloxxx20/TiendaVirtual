@@ -1,3 +1,4 @@
+
 Django on OpenShift
 ===================
 
@@ -25,7 +26,7 @@ sure to back up your database w/ `rhc app snapshot save` first :) )
 
 
 Running on OpenShift
---------------------
+
 
 Create an account at http://openshift.redhat.com/
 
@@ -55,7 +56,8 @@ That's it. You can now checkout your application at:
     http://django-$yournamespace.rhcloud.com
 
 Admin user name and password
-----------------------------
+
+
 As the `git push` output scrolls by, keep an eye out for a
 line of output that starts with `Django application credentials: `. This line
 contains the generated admin password that you will need to begin
